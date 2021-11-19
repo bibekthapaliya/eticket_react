@@ -24,7 +24,7 @@ const onTicketSelect=(ticketId)=>{
     <div className="App">
       <Navbar dark color="primary">
         <div className="container">
-          <NavbarBrand href="/">Online Ticketing System</NavbarBrand>
+          <NavbarBrand href="/">ETicketing System</NavbarBrand>
         </div>
       </Navbar>
       <Eticket tickets= {tickets}
